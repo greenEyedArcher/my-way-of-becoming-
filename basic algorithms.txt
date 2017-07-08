@@ -1,0 +1,12 @@
+bubble sort
+search sort 
+
+linear search
+binary search 
+
+hashn? хэширование
+Fibonacci, Ceasar shiffer?
+факториалы: рекурсивно или некурсивно
+
+more on algorithms
+
